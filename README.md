@@ -6,6 +6,8 @@ most popular and, in my opinion, useful plugins and hooks. Also, the basic
 
 ## First step
 
+Check if you have [yarn](https://yarnpkg.com) installed.
+
 After you clone this repo, simply run
 
 ```
